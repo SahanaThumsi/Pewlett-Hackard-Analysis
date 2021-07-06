@@ -1,7 +1,8 @@
 # Pewlett-Hackard-Analysis
 ## Pewlett-Hackard Employee- Retirement-Analysis
-Determine the number of retiring employees per title, 
+This challenge uses postgres sql.Here Pewlett hackard has planned to provide  a retirement package  for their employees who met certain criteria. There are also some positions that has to be filled as a result of silver tsunami.For this we Determine the number of retiring employees per title, 
 and identify employees who are eligible to participate in a mentorship program.
+
 
 ## The Number of Retiring Employees by Title
 
